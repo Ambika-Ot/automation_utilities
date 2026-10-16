@@ -1,0 +1,65 @@
+{
+  "template": "my_template.pptx",
+  "output": "result_preset.pptx",
+  "preset": "forest_green",
+  "replacements": {
+    "{{company}}": "Acme Corp",
+    "{{author}}": "Amy"
+  },
+  "slides": [
+    {
+      "layout": 1,
+      "title": "Q3 Results",
+      "bullets": ["Revenue up 12%", "Churn down", "New markets opened"],
+      "notes": "Speaker notes go here"
+    },
+    {
+      "layout": 2,
+      "title": "Q4 Forecast",
+      "bullets": ["Revenue up 15%", "Churn down", "New markets opened"],
+      "notes": "Speaker notes go here"
+    },
+    {
+      "layout": 3,
+      "title": "Q4 Forecast",
+      "bullets": ["Revenue up 15%", "Churn down", "New markets opened"],
+      "notes": "Speaker notes go here"
+    },
+    {
+      "layout": 4,
+      "title": "Q4 Forecast",
+      "bullets": ["Revenue up 15%", "Churn down", "New markets opened"],
+      "notes": "Speaker notes go here"
+    },
+    {
+      "layout": 5,
+      "title": "Q4 Forecast",
+      "bullets": ["Revenue up 15%", "Churn down", "New markets opened"],
+      "notes": "Speaker notes go here"
+    },
+    {
+      "layout": 6,
+      "title": "Q4 Forecast",
+      "bullets": ["Revenue up 15%", "Churn down", "New markets opened"],
+      "notes": "Speaker notes go here"
+    },
+    {
+      "layout": 7,
+      "title": "Q4 Forecast",
+      "bullets": ["Revenue up 15%", "Churn down", "New markets opened"],
+      "notes": "Speaker notes go here"
+    },
+    {
+      "layout": 8,
+      "title": "Q4 Forecast",
+      "bullets": ["Revenue up 15%", "Churn down", "New markets opened"],
+      "notes": "Speaker notes go here"
+    },
+    {
+      "layout": 1,
+      "title": "Q3 Results",
+      "bullets": ["Revenue up 12%", "Churn down", "New markets opened"],
+      "notes": "Speaker notes go here"
+    }
+  ]
+}

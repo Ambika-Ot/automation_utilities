@@ -1,0 +1,31 @@
+{
+  "template": "my_template.pptx",
+  "output": "result_manual.pptx",
+  "theme": {
+    "heading_font": "Georgia",
+    "body_font": "Calibri",
+    "colors": {
+      "accent1": "#F28C28",
+      "accent2": "#1F4E79"
+    }
+  },
+  "text_style": {
+    "title_color": "#1F4E79",
+    "body_color": "#333333",
+    "title_size": 36,
+    "body_size": 20
+  },
+  "background_color": "#F7F7F2",
+  "replacements": {
+    "{{company}}": "Acme Corp",
+    "{{author}}": "Amy"
+  },
+  "slides": [
+    {
+      "layout": 1,
+      "title": "Q3 Results",
+      "bullets": ["Revenue up 12%", "Churn down"],
+      "notes": "Speaker notes go here"
+    }
+  ]
+}
